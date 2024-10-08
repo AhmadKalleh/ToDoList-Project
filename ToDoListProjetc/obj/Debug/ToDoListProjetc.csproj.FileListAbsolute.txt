@@ -1,0 +1,17 @@
+C:\Users\ahmad\source\repos\ToDoListProjetc\ToDoListProjetc\bin\Debug\ToDoListProjetc.exe.config
+C:\Users\ahmad\source\repos\ToDoListProjetc\ToDoListProjetc\bin\Debug\ToDoListProjetc.exe
+C:\Users\ahmad\source\repos\ToDoListProjetc\ToDoListProjetc\bin\Debug\ToDoListProjetc.pdb
+C:\Users\ahmad\source\repos\ToDoListProjetc\ToDoListProjetc\bin\Debug\Guna.UI2.dll
+C:\Users\ahmad\source\repos\ToDoListProjetc\ToDoListProjetc\obj\Debug\ToDoListProjetc.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\ToDoListProjetc\ToDoListProjetc\obj\Debug\ToDoListProjetc.GoToMainScreen.resources
+C:\Users\ahmad\source\repos\ToDoListProjetc\ToDoListProjetc\obj\Debug\ToDoListProjetc.HomeScreen.resources
+C:\Users\ahmad\source\repos\ToDoListProjetc\ToDoListProjetc\obj\Debug\ToDoListProjetc.MainScreen.resources
+C:\Users\ahmad\source\repos\ToDoListProjetc\ToDoListProjetc\obj\Debug\ToDoListProjetc.Properties.Resources.resources
+C:\Users\ahmad\source\repos\ToDoListProjetc\ToDoListProjetc\obj\Debug\ToDoListProjetc.csproj.GenerateResource.cache
+C:\Users\ahmad\source\repos\ToDoListProjetc\ToDoListProjetc\obj\Debug\ToDoListProjetc.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\ToDoListProjetc\ToDoListProjetc\obj\Debug\ToDoList.7C7EA7B1.Up2Date
+C:\Users\ahmad\source\repos\ToDoListProjetc\ToDoListProjetc\obj\Debug\ToDoListProjetc.exe
+C:\Users\ahmad\source\repos\ToDoListProjetc\ToDoListProjetc\obj\Debug\ToDoListProjetc.pdb
+C:\Users\ahmad\source\repos\ToDoListProjetc\ToDoListProjetc\obj\Debug\ToDoListProjetc.ManageCategoriesScreen.resources
+C:\Users\ahmad\source\repos\ToDoListProjetc\ToDoListProjetc\obj\Debug\ToDoListProjetc.StartATimerScreen.resources
+C:\Users\ahmad\source\repos\ToDoListProjetc\ToDoListProjetc\obj\Debug\ToDoListProjetc.CalculatePrecentageScreen.resources

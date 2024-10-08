@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F120109E-C956-42B5-930F-8948E0D9DADF}|ToDoListProjetc\\ToDoListProjetc.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\todolistprojetc\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F120109E-C956-42B5-930F-8948E0D9DADF}|ToDoListProjetc\\ToDoListProjetc.csproj|solutionrelative:todolistprojetc\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F120109E-C956-42B5-930F-8948E0D9DADF}|ToDoListProjetc\\ToDoListProjetc.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\todolistprojetc\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F120109E-C956-42B5-930F-8948E0D9DADF}|ToDoListProjetc\\ToDoListProjetc.csproj|solutionrelative:todolistprojetc\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F120109E-C956-42B5-930F-8948E0D9DADF}|ToDoListProjetc\\ToDoListProjetc.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\todolistprojetc\\calculateprecentagescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F120109E-C956-42B5-930F-8948E0D9DADF}|ToDoListProjetc\\ToDoListProjetc.csproj|solutionrelative:todolistprojetc\\calculateprecentagescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F120109E-C956-42B5-930F-8948E0D9DADF}|ToDoListProjetc\\ToDoListProjetc.csproj|c:\\users\\ahmad\\onedrive\\desktop\\my projects\\project course 14\\todolistprojetc\\todolistprojetc\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F120109E-C956-42B5-930F-8948E0D9DADF}|ToDoListProjetc\\ToDoListProjetc.csproj|solutionrelative:todolistprojetc\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F120109E-C956-42B5-930F-8948E0D9DADF}|ToDoListProjetc\\ToDoListProjetc.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\todolistprojetc\\gotomainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F120109E-C956-42B5-930F-8948E0D9DADF}|ToDoListProjetc\\ToDoListProjetc.csproj|solutionrelative:todolistprojetc\\gotomainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F120109E-C956-42B5-930F-8948E0D9DADF}|ToDoListProjetc\\ToDoListProjetc.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\todolistprojetc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F120109E-C956-42B5-930F-8948E0D9DADF}|ToDoListProjetc\\ToDoListProjetc.csproj|solutionrelative:todolistprojetc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F120109E-C956-42B5-930F-8948E0D9DADF}|ToDoListProjetc\\ToDoListProjetc.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\todolistprojetc\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F120109E-C956-42B5-930F-8948E0D9DADF}|ToDoListProjetc\\ToDoListProjetc.csproj|solutionrelative:todolistprojetc\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F120109E-C956-42B5-930F-8948E0D9DADF}|ToDoListProjetc\\ToDoListProjetc.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\todolistprojetc\\calculateprecentagescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F120109E-C956-42B5-930F-8948E0D9DADF}|ToDoListProjetc\\ToDoListProjetc.csproj|solutionrelative:todolistprojetc\\calculateprecentagescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GoToMainScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\ToDoListProjetc\\GoToMainScreen.cs",
+              "RelativeDocumentMoniker": "ToDoListProjetc\\GoToMainScreen.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\ToDoListProjetc\\ToDoListProjetc\\GoToMainScreen.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ToDoListProjetc\\ToDoListProjetc\\GoToMainScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:01:06.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeScreen.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\ToDoListProjetc\\HomeScreen.cs",
+              "RelativeDocumentMoniker": "ToDoListProjetc\\HomeScreen.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\ToDoListProjetc\\HomeScreen.cs",
+              "RelativeToolTip": "ToDoListProjetc\\HomeScreen.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAqwAcBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:58:45.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\ToDoListProjetc\\HomeScreen.cs",
+              "RelativeDocumentMoniker": "ToDoListProjetc\\HomeScreen.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\ToDoListProjetc\\ToDoListProjetc\\HomeScreen.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ToDoListProjetc\\ToDoListProjetc\\HomeScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:58:43.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculatePrecentageScreen.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\ToDoListProjetc\\CalculatePrecentageScreen.cs",
+              "RelativeDocumentMoniker": "ToDoListProjetc\\CalculatePrecentageScreen.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\ToDoListProjetc\\CalculatePrecentageScreen.cs",
+              "RelativeToolTip": "ToDoListProjetc\\CalculatePrecentageScreen.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswKoAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:42:34.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatePrecentageScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\ToDoListProjetc\\CalculatePrecentageScreen.cs",
+              "RelativeDocumentMoniker": "ToDoListProjetc\\CalculatePrecentageScreen.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\ToDoListProjetc\\CalculatePrecentageScreen.cs [Design]",
+              "RelativeToolTip": "ToDoListProjetc\\CalculatePrecentageScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:41:49.939Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\ToDoListProjetc\\MainScreen.cs",
+              "RelativeDocumentMoniker": "ToDoListProjetc\\MainScreen.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\ToDoListProjetc\\MainScreen.cs [Design]",
+              "RelativeToolTip": "ToDoListProjetc\\MainScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:17:20.36Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\ToDoListProjetc\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoListProjetc\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\ToDoListProjetc\\Program.cs",
+              "RelativeToolTip": "ToDoListProjetc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:33:46.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainScreen.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\ToDoListProjetc\\MainScreen.cs",
+              "RelativeDocumentMoniker": "ToDoListProjetc\\MainScreen.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\ToDoListProjetc\\ToDoListProjetc\\MainScreen.cs",
+              "RelativeToolTip": "ToDoListProjetc\\MainScreen.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA9wBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:28:48.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
